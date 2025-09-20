@@ -2,7 +2,7 @@
 # Flowise Backup Script
 
 # Configuración
-USER_HOME="/home/adminarkanatech"
+USER_HOME="/home/admintuusario"
 BACKUP_DIR="$USER_HOME/backups"
 FLOWISE_DIR="$USER_HOME/Flowise"
 FLOWISE_DATA_DIR="$USER_HOME/.flowise"
